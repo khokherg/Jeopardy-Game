@@ -1,0 +1,74 @@
+Q1. What is the size of int variable?
+Ans. 32 bit
+
+Q2. Roughly how many functioningsatellites are zipping around our planetright now?
+Ans. 1000
+
+Q3. Which of these instruments requires a reed in order to be played?
+Ans. Clarinet
+
+Q4. The name of which shampoo brand is made up of two different parts of the body?
+Ans. Head & Shoulders
+
+Q5. All of these are golf terms except?
+Ans. Home Run
+
+Q6. What is the prototype of the default constructor of the class  public class Prototype { }?
+Ans. public Prototype()
+
+Q7. Which country destroyed its own weather satellite in a controversial 2007 test that spawned thousands of pieces of space junk?
+Ans. China
+
+Q8. What is the word for a kind of stringed instrument?
+Ans. Harp
+
+Q9. The longest highway in the world is ?
+Ans. Trans - Canada
+
+Q10. A typical golf tournament consists of?
+Ans. 4 Rounds
+
+Q11. What is the name of the class that is the ancestor to every other class in Java?
+Ans. Object
+
+Q12. The United States successfully orbited its first satellite in January 1958. What was the spacecraft called?
+Ans. Explorer 1
+
+Q13.  Which musical instrument does not have strings?
+Ans. Flute
+
+Q14. The longest river in the world is ?
+Ans. Nile
+
+Q15. Which of these teams has NOT won back-to-back World Series?
+Ans. Cardinals
+
+Q16. A class member declared protected becomes member of subclass of which type?
+Ans. Private Member
+
+Q17. Europe is developing its own satellite-navigation system, which should be fully operational by 2020. What is it called?
+Ans. Galileo
+
+Q18. This instrument looks and is played like a violin, but it is a bit larger?
+Ans. Viola
+
+Q19. The country which is also known as 'Country of Copper' is ?
+Ans. Zambia
+
+Q20. Which team has never lost a World Series?
+Ans. Marlins
+
+Q21. Can an interface ever contain method bodies?
+Ans. No
+
+Q22. Which space shuttle carried Hubble to orbit in April 1990?
+Ans. Discovery
+
+Q23. This instrument looks like a bed post and is played with a double reed that connects to the instrument using a bocal?
+Ans. Bassoon
+
+Q24. Who won the Oscar for Best Actor in 2011?
+Ans. Jean Dujardin
+
+Q25. Which was the 1st non Test playing country to beat India in an international match?
+Ans. Sri Lanka

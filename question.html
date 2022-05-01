@@ -1,0 +1,68 @@
+<html>
+    <head>
+        <title>
+            Question
+        </title>
+        <style>
+            *{
+                margin:0;
+                padding:0;
+            }
+            body
+            {
+                background-image: url("pic.jpg");
+                background-repeat: no-repeat;
+                background-size:100% 100%;
+            }
+            p
+            {
+                color:#ffcc00;
+                font-size:40px;
+                font-family:kirsty;
+                margin-top:85px;
+            }
+            center, input
+            {
+                color:#ff3333;
+                font-size:40px;
+                font-family:kirsty;
+            }
+            .btn
+            {
+                display:inline-block;
+                color:#e68a00;
+                box-shadow:3px 3px 8px #e68a00; 
+
+            }
+            input:hover
+            {
+                background-color:#5c00e6;
+            }
+            input:focus
+            {
+                background-color:#5c00e6;
+            }
+        </style>
+    </head>
+    <body>
+        <form  action="AnswerSelect">
+            <center>
+                <p>
+                    Q1. What is the size of int variable ?
+                </p>
+                <input type="radio" name="ans" value="8 Bit">&emsp;8 Bit
+                &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;
+                <input type="radio" name="ans" value="16 Bit">&emsp;16 Bit
+                <br><br><br>
+                <input type="radio" name="ans" value="32 Bit">&emsp;32 Bit
+                &emsp;&emsp;&emsp; &emsp;&emsp;&emsp;
+                <input type="radio" name="ans" value="64 Bit">64 Bit
+                <br><br>
+                <br>
+                &emsp;<input class="btn" type="submit" value="Quit">
+                &emsp;&emsp;&emsp; &emsp;&emsp;&emsp; &emsp; 
+                <input class="btn" type="submit" value="Submit">
+            </center>
+        </form>
+    </body>
+</html>

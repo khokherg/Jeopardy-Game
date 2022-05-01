@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+    <servlet>
+        <servlet-name>Login</servlet-name>
+        <servlet-class>ca.sheridancollege.servlets.LoginServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/LoginPage</url-pattern>
+    </servlet-mapping>
+      
+    
+  
+    <servlet>
+        <servlet-name>PickQuestion</servlet-name>
+        <servlet-class>ca.sheridancollege.servlets.PickQuestionServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>PickQuestion</servlet-name>
+        <url-pattern>/PickQuestion</url-pattern>
+    </servlet-mapping>
+    
+    
+    <servlet>
+        <servlet-name>AnswerSelect</servlet-name>
+        <servlet-class>ca.sheridancollege.servlets.AnswerSelectServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>AnswerSelect</servlet-name>
+        <url-pattern>/AnswerSelect</url-pattern>
+    </servlet-mapping>
+</web-app>
